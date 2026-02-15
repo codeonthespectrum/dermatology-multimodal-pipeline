@@ -1,0 +1,13 @@
+PyMuPDF
+Pillow
+pandas
+tqdm
+unidecode
+opencv-python
+pytesseract
+layoutparser
+pdf2image
+matplotlib
+seaborn
+wordcloud
+kagglehub
